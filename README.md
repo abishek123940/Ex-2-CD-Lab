@@ -33,8 +33,6 @@
 6.	Compile the lex program with lex compiler to produce output file as lex.yy.c. eg $ lex filename.l $ cc lex.yy.c
 7.	Compile that file with C compiler and verify the output.
 
-# INPUT
-
 # OUTPUT
 <img width="702" height="333" alt="image" src="https://github.com/user-attachments/assets/43c9caae-3dfa-4df7-8784-656da1f2d767" />
 
